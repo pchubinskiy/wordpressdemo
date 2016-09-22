@@ -1,1 +1,3 @@
 # wordpressdemo
+
+initial wordpress setup
